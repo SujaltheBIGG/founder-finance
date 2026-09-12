@@ -1,0 +1,35 @@
+{
+  "background_color": "#000000",
+  "categories": ["business", "productivity", "utilities"],
+  "description": "Consulting operations and financial workflow management.",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "512x512",
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "/",
+  "screenshots": [
+    {
+      "sizes": "1624x1561",
+      "src": "/screenshot-wide.png",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "sizes": "1290x2796",
+      "src": "/screenshot-narrow.png",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "orientation": "portrait-primary",
+  "name": "Founder Finance",
+  "scope": "/",
+  "short_name": "Founder Finance",
+  "start_url": "/",
+  "theme_color": "#000000"
+}
